@@ -1,3 +1,11 @@
-Mi nombre es Fabián Andrés Hurtado Arango y tengo 18 años.
+Mi nombre es Fabián Andrés Hurtado Arango y tengo 18 años
 
-Mi principal aspiración con respecto a esta materia es mejorar mis habilidades a la hora de programar para así poder desarrollar aplicaciones que me permitan resolver problemas de la vida real, en los cuales llevo pensando un buen tiempo.
+Mi principal aspiración con respecto a esta materia es mejorar mis habilidades a la hora de programar para así poder desarrollar aplicaciones que me permitan resolver problemas de la vida real, en los cuales llevo pensando un buen tiempo
+
+
+
+No me fue posible subir la carpeta archivos mediante Github Desktop hasta el momento en que agregué el archivo respuesta.txt
+
+
+
+Debemos tener precaución al modificar archivos desde diferentes ubicaciones, ya que si perdemos el hilo de los cambios que hemos hecho, ya sea en Github o en el almacenamiento de nuestro dipositivo, esto podría llevarmos a situaciones de confusión no deseadas e incluso de pérdidas de archivos importantes
